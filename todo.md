@@ -15,6 +15,7 @@
         -> Image
     -> Delete
     -> Retweet
+    -> Liking
 
 3. Following/Followers
 
